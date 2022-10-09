@@ -5,7 +5,7 @@ It should return the number of feet equivalent to the value of miles given, roun
 */
 
 function milesToFeet(miles) {
-    /*Your Code Here*/
+    return miles * 5280
 }
 
 //Test Cases

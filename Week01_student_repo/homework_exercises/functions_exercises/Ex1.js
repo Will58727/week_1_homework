@@ -6,7 +6,7 @@ It should return the total annual expenses given those three parameters.
 */
 
 function calculateAnnualExpenses(monthlyRent, monthlyBills, weeklyFood) {
-    /*Your Code Here*/
+    return  ((weeklyFood * 4), monthlyBills + monthlyRent * 12)
 }
 
 //Test Cases
